@@ -2,16 +2,6 @@
 
 This project explores the hotel market in Riyadh—the capital of Saudi Arabia—using data from Kaggle. The analysis focuses on hotel pricing, availability, geolocation, ratings, and other key attributes that shape the hospitality industry in the city.
 
-## Table of Contents
-- [Overview](#overview)
-- [Dataset Details](#dataset-details)
-- [Dataset Limitations](#dataset-limitations)
-- [Summary of Findings](#summary-of-findings)
-- [Snapshot of the Results](#snapshot-of-the-results)
-- [How to Run](#how-to-run)
-- [Repository Structure](#repository-structure)
-- [References](#references)
-
 ## Overview
 Riyadh is a prominent destination for business travelers, tourists, and pilgrims. This analysis examines detailed hotel data from multiple booking platforms such as Booking.com, Hotels.com, Expedia, Agoda.com, and Trip.com. It provides a short-term outlook by focusing on hotel bookings for the next two months, which is crucial for understanding current trends in the hospitality market.
 
@@ -42,13 +32,6 @@ Riyadh is a prominent destination for business travelers, tourists, and pilgrims
   - Highest check-ins occur on Saturdays (248), while check-outs peak on Tuesdays (213), indicating an early week departure trend.
 - **Monthly Trends:**  
   - January exhibits the most consistent booking and check-out numbers, December shows fewer bookings, and February has higher check-out counts.
-
-## Snapshot of the Results
-Below is a snapshot of the key visualizations and results from the analysis:
-
-![Results Snapshot](images/results-snapshot.png)
-
-*Figure: Visualizations showing hotel price ranges, location trends, booking platforms, and check-in/check-out patterns.*
 
 ## How to Run
 1. **Data Preparation:**  
